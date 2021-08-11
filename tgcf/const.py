@@ -19,5 +19,5 @@ class BotMessages:
     """Messages given by the bot to users."""
 
     # pylint: disable=too-few-public-methods
-    start = "Hi! I am alive"
-    bot_help = "For details visit github.com/aahnik/tgcf"
+    start = "I AM ONLINE FOR MY BOSS @HELP621"
+    bot_help = "❌YOU NEED ADMIN PERMISSION ❌"
